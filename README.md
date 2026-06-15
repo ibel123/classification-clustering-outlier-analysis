@@ -16,7 +16,7 @@ This project is a comprehensive data mining analysis submitted as coursework for
 
 All analyses are contained in a single knit-ready R Markdown document and are fully reproducible using a fixed random seed.
 
-## Live Report: ........
+## Live Report: https://github.com/ibel123/classification-clustering-outlier-analysis/
 
 ## Repository Contents
 
