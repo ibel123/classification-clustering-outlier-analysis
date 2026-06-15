@@ -34,14 +34,14 @@ The Iris dataset is built into R and does not require an external file.
 ## Datasets
 
 ### Adult Income Dataset
-**Source:** UCI Machine Learning Repository — 1994 U.S. Census Bureau database
-**Target variable:** `income` — binary, either `<=50K` or `>50K`
+**Source:** UCI Machine Learning Repository: 1994 U.S. Census Bureau database
+**Target variable:** `income` (binary, either `<=50K` or `>50K`)
 **Features:** 14 demographic and employment attributes including age, workclass, education, marital status, occupation, relationship, race, sex, capital gain, capital loss, hours per week, and native country
 **Size after cleaning:** 30,139 observations
 
 ### Iris Dataset
 **Source:** Built into R via `data(iris)`
-**Target variable:** `Species` — three classes: setosa, versicolor, virginica
+**Target variable:** `Species` (three classes: setosa, versicolor, virginica)
 **Features:** Sepal length, sepal width, petal length, petal width (all continuous, in cm)
 **Size:** 150 observations, 50 per species
 
