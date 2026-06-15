@@ -10,13 +10,13 @@
 
 This project is a comprehensive data mining analysis submitted as coursework for the Data Mining course unit. It is organised into two parts, each addressing a distinct family of machine learning techniques applied to different real-world datasets.
 
-## Live Application: 
-
 **Part 1** focuses on supervised classification. Five machine learning algorithms are trained and evaluated on the Adult Income dataset to predict whether an individual earns more than USD 50,000 per year. The models are compared using accuracy, sensitivity, specificity, balanced accuracy, and ROC/AUC analysis.
 
 **Part 2** focuses on unsupervised learning. K-Means and agglomerative hierarchical clustering are applied to the Iris dataset to assess how well the algorithms recover the known species groupings without using label information. Three outlier detection methods are then compared to identify anomalous observations.
 
 All analyses are contained in a single knit-ready R Markdown document and are fully reproducible using a fixed random seed.
+
+## Live Report: ........
 
 ## Repository Contents
 
