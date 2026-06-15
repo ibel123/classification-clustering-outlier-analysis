@@ -4,7 +4,7 @@
 **Student No:** 230070288
 **Reg No:** 23/U/08288/PS
 **Course Unit:** Data Mining
-**Institution:** Makerere University — School of Statistics and Planning
+**Institution:** Makerere University, School of Statistics and Planning
 
 ## Project Overview
 
